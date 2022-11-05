@@ -1,0 +1,15 @@
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\bin\Debug\net6.0\SintaxeETiposdeDadosC#.exe
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\bin\Debug\net6.0\SintaxeETiposdeDadosC#.deps.json
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\bin\Debug\net6.0\SintaxeETiposdeDadosC#.runtimeconfig.json
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\bin\Debug\net6.0\SintaxeETiposdeDadosC#.dll
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\bin\Debug\net6.0\SintaxeETiposdeDadosC#.pdb
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\obj\Debug\net6.0\SintaxeETiposdeDadosC#.csproj.AssemblyReference.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\obj\Debug\net6.0\SintaxeETiposdeDadosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\obj\Debug\net6.0\SintaxeETiposdeDadosC#.AssemblyInfoInputs.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\obj\Debug\net6.0\SintaxeETiposdeDadosC#.AssemblyInfo.cs
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\obj\Debug\net6.0\SintaxeETiposdeDadosC#.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\obj\Debug\net6.0\SintaxeETiposdeDadosC#.dll
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\obj\Debug\net6.0\refint\SintaxeETiposdeDadosC#.dll
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\obj\Debug\net6.0\SintaxeETiposdeDadosC#.pdb
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\obj\Debug\net6.0\SintaxeETiposdeDadosC#.genruntimeconfig.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\SintaxeETiposdeDadosC#\obj\Debug\net6.0\ref\SintaxeETiposdeDadosC#.dll
