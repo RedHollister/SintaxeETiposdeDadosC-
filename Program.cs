@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using SintaxeETiposdeDadosC_.Models;
+
+Pessoa p = new Pessoa();
