@@ -1,13 +1,17 @@
 ﻿using SintaxeETiposdeDadosC_.Models;
 
 //Cast - Casting
-//int a = Convert.ToInt32("5");
+int c = Convert.ToInt32(null);
 
-int a = int.Parse("5c");
+int a = int.Parse("5");
 
 double b = double.Parse("22");
 
+
 Console.WriteLine(a);
+Console.WriteLine(b);
+Console.WriteLine(c);
+
 
 
 
