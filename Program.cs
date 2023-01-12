@@ -1,16 +1,23 @@
 ﻿using SintaxeETiposdeDadosC_.Models;
 
-//Cast - Casting
-int c = Convert.ToInt32(null);
-
-int a = int.Parse("5");
-
-double b = double.Parse("22");
+int inteiro = 5;
+string a = 14.ToString();
 
 
-Console.WriteLine(a);
-Console.WriteLine(b);
-Console.WriteLine(c);
+
+Console.WriteLine(a); 
+
+// //Cast - Casting
+// int c = Convert.ToInt32(null);
+
+// int a = int.Parse("5");
+
+// double b = double.Parse("22");
+
+
+// Console.WriteLine(a);
+// Console.WriteLine(b);
+// Console.WriteLine(c);
 
 
 
